@@ -1,4 +1,4 @@
-### HI, I'm mike 👋
+### Hi, I'm mike 👋
 
 <!--
 **dq042000/dq042000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
